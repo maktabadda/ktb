@@ -7,124 +7,6 @@ Riyaad, Jiddah, Al-Khubar, Sharjah, Lahoor, Landan, Hiyuuston, Niyuu Yoork.
 
 Daabacaadda 1aad: Agosto, 2010
 
-## Tusmada Kitaabka
-
-- [[#Hordhac|Hordhac]]
-- [[#Suuradda 1aad: Al-Faatixa|Suuradda 1aad: Al-Faatixa]]
-- [[#Suuradda 2aad: Al-Baqarah (Saca)|Suuradda 2aad: Al-Baqarah (Saca)]]
-- [[#Suuradda 3aad: Aal-Cimraan (Reer-Cimraan)|Suuradda 3aad: Aal-Cimraan (Reer-Cimraan)]]
-- [[#Suuradda 4aad: An-Nisaa’ (Haweenka)|Suuradda 4aad: An-Nisaa’ (Haweenka)]]
-- [[#Suuradda 5aad: Al-Maa’idah (Miiskaa Lagu Fidshay Cunnooyinka)|Suuradda 5aad: Al-Maa’idah (Miiskaa Lagu Fidshay Cunnooyinka)]]
-- [[#Suuradda 6aad: Al-Ancaam (Xoolaha)|Suuradda 6aad: Al-Ancaam (Xoolaha)]]
-- [[#Suuradda 7aad: Al-Acraaf (Koodadka - Darbiga Taagagga Leh)|Suuradda 7aad: Al-Acraaf (Koodadka - Darbiga Taagagga Leh)]]
-- [[#Suuradda 8aad: Al-Anfaal (Qaniimooyinka Dagaalka)|Suuradda 8aad: Al-Anfaal (Qaniimooyinka Dagaalka)]]
-- [[#Suuradda 9aad: At-Tawba (Toobada)|Suuradda 9aad: At-Tawba (Toobada)]]
-- [[#Suuradda 10aad: Yuunus|Suuradda 10aad: Yuunus]]
-- [[#Suuradda 11aad: Huud (Nabi Huud)|Suuradda 11aad: Huud (Nabi Huud)]]
-- [[#Suuradda 12aad: Yuusuf|Suuradda 12aad: Yuusuf]]
-- [[#Suuradda 13aad: Ar-Racdi (Onkodka)|Suuradda 13aad: Ar-Racdi (Onkodka)]]
-- [[#Suuradda 14aad: Ibraahiim|Suuradda 14aad: Ibraahiim]]
-- [[#Suuradda 15aad: Al-Xijri (Dhadhaabka Togga)|Suuradda 15aad: Al-Xijri (Dhadhaabka Togga)]]
-- [[#Suuradda 16aad: An-Naxli (Shinnida)|Suuradda 16aad: An-Naxli (Shinnida)]]
-- [[#Suuradda 17aad: Al-Israa (Dheelmintii)|Suuradda 17aad: Al-Israa (Dheelmintii)]]
-- [[#Suuradda 18aad: Al-Kahfi (Godka)|Suuradda 18aad: Al-Kahfi (Godka)]]
-- [[#Suuradda 19aad: Maryam|Suuradda 19aad: Maryam]]
-- [[#Suuradda 20aad: Daa-Haa|Suuradda 20aad: Daa-Haa]]
-- [[#Suuradda 21aad: Al-Anbiyaa (Anbiyada)|Suuradda 21aad: Al-Anbiyaa (Anbiyada)]]
-- [[#Suuradda 22aad: Al-Xaj (Xajka)|Suuradda 22aad: Al-Xaj (Xajka)]]
-- [[#Suuradda 23aad: Al-Mu’minuun (Mu’miniinta)|Suuradda 23aad: Al-Mu’minuun (Mu’miniinta)]]
-- [[#Suuradda 24aad: An-Nuur (Nuurka)|Suuradda 24aad: An-Nuur (Nuurka)]]
-- [[#Suuradda 25aad: Al-Furqaan (Kala-Saaraha)|Suuradda 25aad: Al-Furqaan (Kala-Saaraha)]]
-- [[#Suuradda 26aad: Ash-Shucaraa (Gabyaayada)|Suuradda 26aad: Ash-Shucaraa (Gabyaayada)]]
-- [[#Suuradda 27aad: An-Namli (Quraanyada)|Suuradda 27aad: An-Namli (Quraanyada)]]
-- [[#Suuradda 28aad: Al-Qasas (Qisooyinkii)|Suuradda 28aad: Al-Qasas (Qisooyinkii)]]
-- [[#Suuradda 29aad: Al-Cankabuut (Caarada)|Suuradda 29aad: Al-Cankabuut (Caarada)]]
-- [[#Suuradda 30aad: Ar-Ruum (Roomaanka)|Suuradda 30aad: Ar-Ruum (Roomaanka)]]
-- [[#Suuradda 31aad: Luqmaan|Suuradda 31aad: Luqmaan]]
-- [[#Suuradda 32aad: As-Sajdah (Sujuudda)|Suuradda 32aad: As-Sajdah (Sujuudda)]]
-- [[#Suuradda 33aad: Al-Axzaab (Xizbiyada)|Suuradda 33aad: Al-Axzaab (Xizbiyada)]]
-- [[#Suuradda 34aad: Saba’|Suuradda 34aad: Saba’]]
-- [[#Suuradda 35aad: Faadir - Maalaa’ikah (Askumaha Uunka - Malaa’igta)|Suuradda 35aad: Faadir - Maalaa’ikah (Askumaha Uunka - Malaa’igta)]]
-- [[#Suuradda 36aad: Yaa-Siin|Suuradda 36aad: Yaa-Siin]]
-- [[#Suuradda 37aad: As-Saafaat (Kuwaa la safay safafka)|Suuradda 37aad: As-Saafaat (Kuwaa la safay safafka)]]
-- [[#Suuradda 38aad: Saad|Suuradda 38aad: Saad]]
-- [[#Suuradda 39aad: Az-Zumar (Guutooyin Rac-rac)|Suuradda 39aad: Az-Zumar (Guutooyin Rac-rac)]]
-- [[#Suuradda 40aad: Qaafir - Mu’min (Denbi-Dhaafaha - Mu’minka)|Suuradda 40aad: Qaafir - Mu’min (Denbi-Dhaafaha - Mu’minka)]]
-- [[#Suuradda 41aad: Fussilat (Waxaa loo Faahfaahiyay si Tifaftiran)|Suuradda 41aad: Fussilat (Waxaa loo Faahfaahiyay si Tifaftiran)]]
-- [[#Suuradda 42aad: Ash-Shuuraa (Wada-Tashiga)|Suuradda 42aad: Ash-Shuuraa (Wada-Tashiga)]]
-- [[#Suuradda 43aad: Az-Zukhruf (Quruxda Dahabka)|Suuradda 43aad: Az-Zukhruf (Quruxda Dahabka)]]
-- [[#Suuradda 44aad: Ad-Dukhaan (Qiiqa)|Suuradda 44aad: Ad-Dukhaan (Qiiqa)]]
-- [[#Suuradda 45aad: Al-Jaathiyah (Jilbo ku Socodka)|Suuradda 45aad: Al-Jaathiyah (Jilbo ku Socodka)]]
-- [[#Suuradda 46aad: Al-Axqaaf (Buur-Ciideeddii Janjeertay)|Suuradda 46aad: Al-Axqaaf (Buur-Ciideeddii Janjeertay)]]
-- [[#Suuradda 47aad: Muxammad - Al-Qitaal (Nabi Muxammad - Dagaalka)|Suuradda 47aad: Muxammad - Al-Qitaal (Nabi Muxammad - Dagaalka)]]
-- [[#Suuradda 48aad: Al-Fatxi (Guusha)|Suuradda 48aad: Al-Fatxi (Guusha)]]
-- [[#Suuradda 49aad: Al-Xujuraat (Guryaha Gaarka ah)|Suuradda 49aad: Al-Xujuraat (Guryaha Gaarka ah)]]
-- [[#Suuradda 50aad: Qaaf|Suuradda 50aad: Qaaf]]
-- [[#Suuradda 51aad: Ad-Daariyaat (Dabeylaha Boorka Kiciya)|Suuradda 51aad: Ad-Daariyaat (Dabeylaha Boorka Kiciya)]]
-- [[#Suuradda 52aad: Ad-Duur (Buurta)|Suuradda 52aad: Ad-Duur (Buurta)]]
-- [[#Suuradda 53aad: An-Najmi (Xiddiga)|Suuradda 53aad: An-Najmi (Xiddiga)]]
-- [[#Suuradda 54aad: Al-Qamar (Dayaxa)|Suuradda 54aad: Al-Qamar (Dayaxa)]]
-- [[#Suuradda 55aad: Ar-Raxmaan|Suuradda 55aad: Ar-Raxmaan]]
-- [[#Suuradda 56aad: Al-Waaqicah|Suuradda 56aad: Al-Waaqicah]]
-- [[#Suuradda 57aad: Al-Xadiid (Birta)|Suuradda 57aad: Al-Xadiid (Birta)]]
-- [[#Suuradda 58aad: Al-Mujaadilah (Haweentii Doodeysay)|Suuradda 58aad: Al-Mujaadilah (Haweentii Doodeysay)]]
-- [[#Suuradda 59aad: Al-Xashar (Kulmintii)|Suuradda 59aad: Al-Xashar (Kulmintii)]]
-- [[#Suuradda 60aad: Al-Mumtaxina (Haweentii la Imtixaanayay)|Suuradda 60aad: Al-Mumtaxina (Haweentii la Imtixaanayay)]]
-- [[#Suuradda 61aad: As-Saf (Safka - Safafka)|Suuradda 61aad: As-Saf (Safka - Safafka)]]
-- [[#Suuradda 62aad: Al-Jumucah (Jumcaha)|Suuradda 62aad: Al-Jumucah (Jumcaha)]]
-- [[#Suuradda 63aad: Al-Munaafiquun (Munaafiqiinta)|Suuradda 63aad: Al-Munaafiquun (Munaafiqiinta)]]
-- [[#Suuradda 64aad: At-Taqaabun (Kado)|Suuradda 64aad: At-Taqaabun (Kado)]]
-- [[#Suuradda 65aad: Ad-Dalaaq (Furriinka)|Suuradda 65aad: Ad-Dalaaq (Furriinka)]]
-- [[#Suuradda 66aad: At-Taxriim (Iska Xaaraamayn)|Suuradda 66aad: At-Taxriim (Iska Xaaraamayn)]]
-- [[#Suuradda 67aad: Al-Mulk (Xukunka)|Suuradda 67aad: Al-Mulk (Xukunka)]]
-- [[#Suuradda 68aad: Al-Qalam - Nuun (Qalinka)|Suuradda 68aad: Al-Qalam - Nuun (Qalinka)]]
-- [[#Suuradda 69aad: Al-Xaaqqah (Xaqiiqda)|Suuradda 69aad: Al-Xaaqqah (Xaqiiqda)]]
-- [[#Suuradda 70aad: Al-Macaarij (Waddooyinka Kor Loo Koro)|Suuradda 70aad: Al-Macaarij (Waddooyinka Kor Loo Koro)]]
-- [[#Suuradda 71aad: Nuux|Suuradda 71aad: Nuux]]
-- [[#Suuradda 72aad: Al-Jin (Jinka)|Suuradda 72aad: Al-Jin (Jinka)]]
-- [[#Suuradda 73aad: Al-Muzzammil (Midkii isku Duubduubay Dharka)|Suuradda 73aad: Al-Muzzammil (Midkii isku Duubduubay Dharka)]]
-- [[#Suuradda 74aad: Al-Muddathir (Kan is Daday)|Suuradda 74aad: Al-Muddathir (Kan is Daday)]]
-- [[#Suuradda 75aad: Al-Qiyaamah (Soo-Bixinta)|Suuradda 75aad: Al-Qiyaamah (Soo-Bixinta)]]
-- [[#Suuradda 76aad: Al-Insaan - Ad-Dahri (Aadamaha - Waayaha)|Suuradda 76aad: Al-Insaan - Ad-Dahri (Aadamaha - Waayaha)]]
-- [[#Suuradda 77aad: Al-Mursalaat (Lasoo-Dirayaasha)|Suuradda 77aad: Al-Mursalaat (Lasoo-Dirayaasha)]]
-- [[#Suuradda 78aad: An-Naba’ (Warka Wayn)|Suuradda 78aad: An-Naba’ (Warka Wayn)]]
-- [[#Suuradda 79aad: An-Naazicaat (Kuwa Wax Soo Siiba)|Suuradda 79aad: An-Naazicaat (Kuwa Wax Soo Siiba)]]
-- [[#Suuradda 80aad: Cabasa (Wajiga Ayuu Kaduuday)|Suuradda 80aad: Cabasa (Wajiga Ayuu Kaduuday)]]
-- [[#Suuradda 81aad: At-Takwiir (Duubid iyo Beelin Nuurkeeda)|Suuradda 81aad: At-Takwiir (Duubid iyo Beelin Nuurkeeda)]]
-- [[#Suuradda 82aad: Al-Infidaar (Dillaacidda)|Suuradda 82aad: Al-Infidaar (Dillaacidda)]]
-- [[#Suuradda 83aad: Al-Mudaffifiin (Kuwa Dhima Beegga)|Suuradda 83aad: Al-Mudaffifiin (Kuwa Dhima Beegga)]]
-- [[#Suuradda 84aad: Al-Inshiqaaq (Ukala-Dhanbalmanka Cirka Gaballo)|Suuradda 84aad: Al-Inshiqaaq (Ukala-Dhanbalmanka Cirka Gaballo)]]
-- [[#Suuradda 85aad: Al-Buruuj (Xiddigaha Waawayn)|Suuradda 85aad: Al-Buruuj (Xiddigaha Waawayn)]]
-- [[#Suuradda 86aad: Ad-Daariq (Xiddigga Guura)|Suuradda 86aad: Ad-Daariq (Xiddigga Guura)]]
-- [[#Suuradda 87aad: Al-Aclaa (Kan Sarraynta Badan)|Suuradda 87aad: Al-Aclaa (Kan Sarraynta Badan)]]
-- [[#Suuradda 88aad: Al-Qaashiyah (Dabooshada)|Suuradda 88aad: Al-Qaashiyah (Dabooshada)]]
-- [[#Suuradda 89aad: Al-Fajri (Beriga - Oogga Hore)|Suuradda 89aad: Al-Fajri (Beriga - Oogga Hore)]]
-- [[#Suuradda 90aad: Al-Balad (Baladka)|Suuradda 90aad: Al-Balad (Baladka)]]
-- [[#Suuradda 91aad: ash-Shams (Qorraxda)|Suuradda 91aad: ash-Shams (Qorraxda)]]
-- [[#Suuradda 92aad: Al-Layl (Habeenka)|Suuradda 92aad: Al-Layl (Habeenka)]]
-- [[#Suuradda 93aad: Ad-Duxaa (Barqada)|Suuradda 93aad: Ad-Duxaa (Barqada)]]
-- [[#Suuradda 94aad: ash-Sharxi (Laab Furidda)|Suuradda 94aad: ash-Sharxi (Laab Furidda)]]
-- [[#Suuradda 95aad: At-Tiin (Tiinka)|Suuradda 95aad: At-Tiin (Tiinka)]]
-- [[#Suuradda 96aad: Al-Calaq (Xinjirta)|Suuradda 96aad: Al-Calaq (Xinjirta)]]
-- [[#Suuradda 97aad: Al-Qadri (Habeenka Qaddarka)|Suuradda 97aad: Al-Qadri (Habeenka Qaddarka)]]
-- [[#Suuradda 98aad: Al-Bayyinah (Xujada Cad)|Suuradda 98aad: Al-Bayyinah (Xujada Cad)]]
-- [[#Suuradda 99aad: Az-Zalzalah (Dhul Gariirka)|Suuradda 99aad: Az-Zalzalah (Dhul Gariirka)]]
-- [[#Suuradda 100aad: Al-Caadiyaat (Xiimayaasha)|Suuradda 100aad: Al-Caadiyaat (Xiimayaasha)]]
-- [[#Suuradda 101aad: Al-Qaaricah (Qaraacdada Qalbiga)|Suuradda 101aad: Al-Qaaricah (Qaraacdada Qalbiga)]]
-- [[#Suuradda 102aad: At-Takaathur (Ku-Tartanka Kororsiga Adduunka)|Suuradda 102aad: At-Takaathur (Ku-Tartanka Kororsiga Adduunka)]]
-- [[#Suuradda 103aad: Al-Casri (Waqtiga)|Suuradda 103aad: Al-Casri (Waqtiga)]]
-- [[#Suuradda 104aad: Al-Humazah (Durayaasha Wax Ceebeeya)|Suuradda 104aad: Al-Humazah (Durayaasha Wax Ceebeeya)]]
-- [[#Suuradda 105aad: Al-Fiil (Maroodiga)|Suuradda 105aad: Al-Fiil (Maroodiga)]]
-- [[#Suuradda 106aad: Quraysh|Suuradda 106aad: Quraysh]]
-- [[#Suuradda 107aad: Al-Maacuun|Suuradda 107aad: Al-Maacuun]]
-- [[#Suuradda 108aad: Al-Kawthar (Wabi Kuyaal Jannada)|Suuradda 108aad: Al-Kawthar (Wabi Kuyaal Jannada)]]
-- [[#Suuradda 109aad: Al-Kaafiruun (Gaalada)|Suuradda 109aad: Al-Kaafiruun (Gaalada)]]
-- [[#Suuradda 110aad: An-Nasri (Hiilka)|Suuradda 110aad: An-Nasri (Hiilka)]]
-- [[#Suuradda 111aad: Al-Masad (Xuskul la Soohay)|Suuradda 111aad: Al-Masad (Xuskul la Soohay)]]
-- [[#Suuradda 112aad: Al-Ikhlaas (Kali-Yeelidda Cibaadada)|Suuradda 112aad: Al-Ikhlaas (Kali-Yeelidda Cibaadada)]]
-- [[#Suuradda 113aad: Al-Falaq (Dillaaca Oogga)|Suuradda 113aad: Al-Falaq (Dillaaca Oogga)]]
-- [[#Suuradda 114aad: An-Naas (Dadka)|Suuradda 114aad: An-Naas (Dadka)]]
-
 ## Hordhac
 
 Ammaan idilkeed iyo mahadba waxaa leh Allaah, Nabad iyo Naxariis Allena ha ahaato addoonkiisa Muxammad bin Cabdullaah (ﷺ) korkiisa, iyo ehlu beydkisii iyo asxaabtiisii iyo cid kasta oo ku raacda xaqa tan iyo Qiyaamaha. Intaas kaddib:
@@ -3209,7 +3091,7 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 57. Dheh, “Idinkuma waydiisto [xaqa gaarsiintiisa] wax ajar ah, [ee ha waxido Allaah oo ha fasho camallo wanaagsan] kii doonaya inuu u samaysto xagga Rabbigi jid.
 58. Oo tala saaro [Muxammadow] Noolaha [daa’imka ah] aan dhiman, oo ku tasbiixso ammaanahiisa, oo ku filan Isagu xog ogaal ahaan danbiyada addommahiisa.
 59. Kan ku abuuray cirarka iyo dhulka iyo waxa u dhexeeyaba lix maalmood, oo ku istawooday [ka kor ahaaday] Carshiga [si ku habbon oo u qalanta waynidiisa], Naxariistaha [Allaah] ee waydii Isaga [Muxammadow wixii la xiriira sifaadkiisa iyo tilmaamahiisa, ka kor ahaanshihiisa uunkiisa iyo wixi lamida], maadaama uu Isagu yahay Khabiir [kan u xog ogaalka ah wax waliba, waa Allaah].
-60. Oo marka lagu yiraahdo, “Usujuuda Raxmaanka [Naxariistaha, Allaah], waxay yiraahdaan, “Oo waa maxay Raxmaan? Ma waxaan usujuudaynaa waxaa aad adigu [Muxammadow] ina amrayso?” Oo wuxuu u kordhiyaa didmo.
+60. Oo marka lagu yiraahdo, “Usujuuda Raxmaanka [Naxariistaha, Allaah]"", waxay yiraahdaan, “Oo waa maxay Raxmaan? Ma waxaan usujuudaynaa waxaa aad adigu [Muxammadow] ina amrayso?” Oo wuxuu u kordhiyaa didmo.
 61. Waxaa khayr iyo barako badnaaday [Allaah] Kan u yeelay cirka xiddigo waawayn [ama waddooyin ay xiddiguhu maraan], oo yeelay dhexdeeda nal wayn [qorrax] iyo dayax iftiimaya.
 62. Oo waa [Allaah] Kan uga yeelay habeenka iyo maalinta is daba mar, kii raba inuu waano qaato ama raba inuu mahdiyo.
 63. Oo addoomaha Raxmaanku [Allaah] waa kuwa ku mara dhulka dagganaan iyo miyir, oo marka ay kula hadlaan maangaabyadu [ereyo xun] ku jawaaba ereyo iyo hadal wanaagsan oo nabadeed.
@@ -3973,9 +3855,9 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 25. [Muxammadow] ku dheh [mushrikiinta, gaalada iyo wixi lamida], “La idin ma waydiinayo wax ku saabsan dunuubtayada, innagana nala ma weydiinayo waxa aad fashaan.
 26. Dheh, “Waxaa na kulmin doona Rabbigeen [Maalinta Qiyaamaha], markaasuu inoo kala xukmin doonaa si xaq ah. Waana Isaga garsooraha, Cilmiga Badan.
 27. Ku dheh [Muxammadow mushrikiinta], “I tusa kuwa aad raacisaan [Allaah] shuruko ahaan aad la wdaajisaan cbiaadada, mayee [ma jiraan haba yaraatee wax shaiirkyo la ah] mayee’ waa Allaah [Macbuudka Xaqa ah] A wood Badanaha, Xikmadda Badan.”
-28. Oo kuuma aannu soo dirin [Muxammadow $] waxaan ahayn dadka oo dhan bishaareeye ahaan iyo dige, laakiinse dadka badankiinsu ma oga.
+28. Oo kuuma aannu soo dirin [Muxammadow] waxaan ahayn dadka oo dhan bishaareeye ahaan iyo dige, laakiinse dadka badankiinsu ma oga.
 29. Oo waxay oran doonaan, “Waa goorma yaboohakani [Maalinta Qiyaamha goorta ay dhici doonto] haddii aad run sheegeysaan.?
-30. Dheh [Muxammadow ££] Madasha la idiin qabtay waa Maalin, aydaan dib u celin kareyn saacadna [ama daqiiqad] aydaanna ka soo hormari kareyn.”
+30. Dheh [Muxammadow] Madasha la idiin qabtay waa Maalin, aydaan dib u celin kareyn saacadna [ama daqiiqad] aydaanna ka soo hormari kareyn.”
 31. Oo waxay yiraahdeen kuwii gaaloobay, “Ma mmeynayno Qur’aankaan iyo wixii ka horreeyay midna, haddiise aad arka lahayd Daalimiinta [mushrikiinta, gaalada, dambiilayaasha, iyo wixi lamida] oo la hor joojiyay Rabbigood, sida ay isugu tuurtuuri doonaan qowlka [eedda] qaarkoodba qaarka kale! Waxay ku oran doonaan kuwii tabarta yaraa [raciyaddii ku raacdaya xaq darrada] kuwii isla waynaa [madaxda], “Haddii aydaan jirteen waxaan ahaan lahayn mu’miniin.”
 32. Kuwii isla waynaa [madaxda] waxay ku oran doonaan kuwii tabarta yaraa [raciyaddii ku raacday xaq darrada], “Ma innaga baa idinka celinnay hanuunka kaddib markii uu idiin yimid? Mayee’ bal waxaad ahaydeen idinkuba Ivluj nmiin [mushrikiin, gaalo, denbiilayaal, iyo wixi lamida].
 33. Oo kuwii tabarta yaraa [Raciyadii xaq darrada ku raacday madaxadoodii] waxay ku oran doonaan kuwii isla waynaa [madaxda], “Mayee’ waxaa hanuunka naga celiyay qooliddiinnii habeen iyo maalinba, markii aad na amarteen inaan ku gaalowno Allaah oo u yeello shariigyo. Oo waxay ka qoomamoon doonaan [ku caasiyoobiddoodii Allaah waayihii nolosha adduunka] marka ay arkaan cadaabka, waxaannuna yeelli doonaa koorar bir ah hareeraha luqumaha kuwii gaaloobay, Miyaa laga abaal marin [gaalada] waxaan ahayn wixii ay camal [xun] fali jireen?
@@ -3993,15 +3875,15 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 45. Oo waxay beeniyeen [Xaqa] Kuwii ka horreeyay baana beeniyay, kuwakani [Mushrikiinta Carbeed] lama siin toban meeloodoo meel wixii aan siinnay kuwaa [ka horeeyay ee tegey]; sidaa iyadoo ay tahay bay haddana beeniyeen Rusushaya- dii. ee sidee mid daran u aheyd Cadaabteydii [aan cadaabay kuwaas xaqa beeniyay].
 46. Dheh [Muxammadow] waxaan idinku waaninayaa mid keliya; waa inaad u istaagtaan Allaah labo-labo iyo mid mid, oo markaas ka fekertaan [taariikh noloeedkii_siiradii Nabiga 41]; ma qabo rafiiqiin [Muxammad] waalli, waa oo keliya dige idiinka digaya cadaab daran oo soo fool leh.
 47. Dheh [Muxammadow], “Wixii aan idin weydiiyo oo ujuuro ah, waa waxaad idinku leedihiin. Ujuuradayda waxaan ka sugayaa xagga Allaah Keliya. Oo wax walba isagu [Allaah] waa u Jeedaa.
-48. Dheh [Muxammadow JS]” Xaqiiqdii, Rabbigay wuxuu soo dejiyaa Xaqa [oo xumaantuu ku tiraa] waa Ogsoonaha Ġaybka [wax aan muuqan ee qarsoon]
-49. Dheh [Muxammadow Sj]: Xaqii waa yimid, Baadilkana [Shaydaan] ma karo inuu abuuro [waxna] ama ka soo bixiyo [iilka].
-50. Dheh, “Haddii aan dhumo waxaan u dhumay nafteyda. Haddiina aan ku sugnaado hanuunka, waa sababta waxa uu ii waxyoodo Rabbigay. Xaqiiqdii [Allaah] waa Maqal Badane, dhow.
+48. Dheh [Muxammadow], "Xaqiiqdii, Rabbigay wuxuu soo dejiyaa Xaqa [oo xumaantuu ku tiraa] waa Ogsoonaha Ġaybka [wax aan muuqan ee qarsoon]."
+49. Dheh [Muxammadow], "Xaqii waa yimid, Baadilkana [Shaydaan] ma karo inuu abuuro [waxna] ama ka soo bixiyo [iilka]."
+50. Dheh, “Haddii aan dhumo waxaan u dhumay nafteyda. Haddiina aan ku sugnaado hanuunka, waa sababta waxa uu ii waxyoodo Rabbigay." Xaqiiqdii [Allaah] waa maqal badane, dhow.
 51. Oo haddii aad arki lahayd [Muxammadow], marka ay qarracmi doonaan [gaalada] oo jirin meel ay u cararaan, oo waxaa laga soo qabqaban doonaa meel dhaw.
 52. Oo waxay oran doonaan [Aakhirada], “Waan rumaynay [haatan]!” Sidee baase looga aqbalayaa toobadooda xagga Allaah] iyagoo meel aad u fog ahi [suuragalayn inay u laabtaan noloshii adduunka mar kale].
 53. Oo waxay dhabtii ku gaaloobeen [Allaah, Islaamka iyo Nabi Muxammad] awal hore [adduunkii dhexdiisa], oo waxay ka tuurayeen ġaybka [waxa aan muuqan ee qarsoon, sida nolosha dambe ee Aakhirada, in laysku janneyn qabriga ama laysku cadaabayo, Naarta, Jannada, soo Bixinta iilka layska soo saarayo, iyo Yabooha Allaah, iyo wixi lamida [iyagoo ka lahaa] waxaasi oo dhammi run ma aha] meel fog.
 54. Oo waa la kala oodi doonaa iyaga iyo waxa ay rabaan [waa aqbalaadda Iimaanka], sidii lagu falayba kuwii la midka ahaa ee ka horreeyay. Waxay ahaayeen kuwo ku sugan shaki badan.
 
-## Suuradda 35aad: Faadir - Maalaa’ikah (Askumaha Uunka - Malaa’igta)
+## Suuradda 35aad: Faadir - Malaa’ikah (Askumaha Uunka - Malaa’igta)
 
 Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 
@@ -4596,57 +4478,57 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 1. Xaa Miim [xarfahani waxay ku tusinayaan mucjizada Qur’aanka, oo Allaah oo kaliya baa ogsoon muraadka uu ka leeyahay iyo waxa uu ula jeedo].
 2. [Qur’aanku] waa soo dajinta Allaah naxariistaha, naxariista badan.
 3. Waa Kitaab aayadihiisa loo faahfaahiyay si cad, Qur’aan Carabi ah, ciddii wax garanaysa.
-4. Ah side bishaarooyin wanaagsan [ee ah Jannada loo diyaariyay kuwa [Xaqa] rumeeyay oo fala camallo wanaagsan] iyo dige [uga diga cadaabka Naarta kuwa ku gaalooba Allaah oo la yimaada shirki iyo macaasi], waase ka jeesadeen badankood, waxna ma maqlayaan.
-5. Waxayna yiraahdeen, “Quluubtayadu waa ka daboolan yihiin waxa aad noogu yeereyso, dhegahayagana waxaa ah culeys, oo waxaa ah dhexdeenna innaga iyo adiga xijaab, ee u camal falo [sida dowga kula ah]; waxaan innaguna u shaqeyneynaa [sida dowga nala ah ee nala qumman].
-6. Dheh [Muxammadow cfe]: Anigu waxaan ahay oo keliya qof idinla mid ah, waxaana la ii waxyooday inuu ilaahiinnu yahay hal ilaah [Allaah Keliya], ee u toosnaada Xaggiisa, oo weydiista danbi dhaaf, Hoogna waxaa leh Mushrikiinta.
+4. Ah side bishaarooyin wanaagsan [ee ah Jannada loo diyaariyay kuwa Xaqa rumeeyay oo fala camallo wanaagsan] iyo dige [uga diga cadaabka Naarta kuwa ku gaalooba Allaah oo la yimaada shirki iyo macaasi], waase ka jeesadeen badankood, waxna ma maqlayaan.
+5. Waxayna yiraahdeen, “Quluubtayadu waa ka daboolan yihiin waxa aad noogu yeereyso, dhagahayagana waxaa ah culays, oo waxaa ah dhexdeenna innaga iyo adiga xijaab, ee u camal falo [sida dowga kula ah]; waxaan innaguna u shaqaynaynaa [sida dowga nala ah ee nala qumman]."
+6. Dheh [Muxammadow], "Anigu waxaan ahay oo keliya qof idin lamid ah, waxaana la ii waxyooday inuu ilaahiinnu yahay hal ilaah [Allaah Keliya], ee u toosnaada Xaggiisa, oo weydiista danbi dhaaf, hoogna waxaa leh mushrikiinta."
 7. Kuwa aan bixin Zakada oo ah kuwo Aakhirada ku gaaloobay.
-8. Xaqiiqdii, kuwa [Xaqa] rumeeyay oo fala camallo wanaagsan oo suubban. Waxay leeyihiin Ajar aan Go’eyn [Janno].
-9. Dheh [Muxammadow]’- “Ma waxaad ku gaaloobeysaan Kan ku abuuray dhulka labo maalmood oo u yeeleysan shariigyo [xagga cibaadada]? Kaasu waa Rabbiga uumanka.
-10. Oo Wuxuu yeelay dhexdeeda [waa arlada] buuro sugan oo korkeeda ah, oo| barakeeyay dhexdeeda oo ugu qaddaray [qiyaasay] quudkeeda [degaannadeeda] afar maalmood oo isla eg. waxaa iska leh [war bixintaa] dhammaan kuwa wax ka weydiiya [abuursiteeda].
-11. Dabadeed Wuxuu u qasday xagga samada oo qiiq ah, markaasuu wuxuu ku yiri iyada iyo dhulkaba, “Ku imaada oggolaansho ama khasab; waxay yiraahdeen: Waxaan ku nimid adeecsanaan.
-12. Markaasuu ku bogay abuuristooda toddoba samood labo maalmood gudahood, oo wuxuu ilhaanshay cir walba amnkiisa. Oo waxaynu ku qurxinnay samada soke nalal [yacni xiddigo] bilic ah, isla markaana looga xafido [shaydaammada]. Waxaasu waa Qaddarka Awood Badanaha, Cilmiga Badan.
-13. Haddiise ay jeesadaan, dheh [Muxammadow] “Waxaan idiinka digay Saaciqah [Cadaab] la mida tii ku dhacday [qoomkii] Caad iyo Thamuud!”
-14. Markii ay Rusushii uga yimaadeen hortooda iyo gadaashoodaba [iyagoo leh], “Ha caabudina cidaan ahayn Allaah” Waxay yiraahdeen, “Haddii uu Rabbigayo doono, wuxuu hubaashii soo dejin lahaa malaa’ig. Ee innagu waxa la idinla soo diray waa ku gaalownay.”
-15. Xagga Caad, waxay isku kibriyeen arlada xaq darro, oo waxay yiraahdeen, “Yaa naga xoog badan? Mawaysan arag in Allaah ee abuuray iyaga uu ka xoog badan yahay. Waxayna ahaayeen kuwo Aayadahayaga diida.
-16. Markaas baan waxaan u dimay dabayl hugmaysa maalmo baas, si a an ugu dhadhansiino cadaabta dulliga nolosha adduunka, cadaabta Aakhiro baase ka sii dulleyn badan, oo looma gargaaro.
-17. Xagga Thammuudna, waxaan tusnay oo u caddaynay Jidka Xaqa, Annagoo u dimay Rasuulkayaga [macnaha waa wuxuu tusay Jidka liibaanta], waxayse ka fadileen indha la’aan hanuunka, markaas baa waxaa qabtay As-Saaciqah [qaylo daran oo naxdin leh, cadaab, jug, biriq], wixii ay kasban jireen [oo dembiyo ah] awgeed.
-18. Oo waxaynu badbaadinnay kuwii [Xaqa] rumeeyay oo ka dhowrsan jirey [shirkiga, gaalnimada iyo macaasida].
-19. Oo [xus] Maalinta cadowyada Allaah loo soo klmin doono Naarta, marka waxaa la isugu keeni doonaa halkaa [koodii u horeeyay iyo koodii u dambeeyayba].
-20. Haa, markii ay soo gaaraan [Naarta] waxaa ku marag fura maqalkooda [dhegahooda] iyo indhahooda iyo oogadooda wixii ay fali jireen.
-21. Oo waxay ku oran doonaan oogadooda, “Maxaad noogu marag furteen? “Waxay oran doonaan, “Waxaa naga hadliyay Allaah, ee ka hadliya wax walba, oo Isaga baa idin abuuray markii hore, oo Xaggiisa baa la idiin cel in doonaa.
-22. Oo ma aydaan ahayn kuwo iska astura si aysan idiinku markhaati furin dhegahiinna, iyo indhahiinna iyo oogooyinkiinna, laakiinse waxaad mooddeen inuusan Allaah ogeyn wax ‘V badan oo waxa aad falaysaan ah
-23. Kaasina waa Malihiinna aad ku maleyseen Rabbigiin, isaga baana idiin halaagay, waxaadna ahaateen kuwa khasaaray.
+8. Xaqiiqdii, kuwa [Xaqa] rumeeyay oo fala camallo wanaagsan oo suubban, waxay leeyihiin ajar aan go’ayn [Janno].
+9. Dheh [Muxammadow], “Ma waxaad ku gaaloobeysaan Kan ku abuuray dhulka labo maalmood oo u yeeleysaan shariigyo [xagga cibaadada]?" Kaasu waa Rabbiga uumanka.
+10. Oo Wuxuu yeelay dhexdeeda [waa arlada] buuro sugan oo korkeeda ah, oo barakeeyay dhexdeeda oo ugu qaddaray [qiyaasay] quudkeeda [degaannadeeda] afar maalmood oo isla eg, waxaa iska leh [warbixintaa] dhammaan kuwa wax ka waydiiya [abuuristeeda].
+11. Dabadeed Wuxuu u qasday xagga samada oo qiiq ah, markaasuu wuxuu ku yiri iyada iyo dhulkaba, “Ku imaada oggolaansho ama khasab," waxay yiraahdeen, "Waxaan ku nimid adeecsanaan."
+12. Markaasuu ku bogay abuuristooda toddoba samood labo maalmood gudahood, oo wuxuu ilhaanshay cir walba arrinkiisa, oo waxaynu ku qurxinnay samada soke nalal [xiddigo] bilic ah, isla markaana looga xafido [shaydaammada]. Waxaasu waa qadarka awood badanaha, cilmiga badan.
+13. Haddiise ay jeesadaan, dheh [Muxammadow], “Waxaan idiin ka digay Saaciqah [Cadaab] la mida tii ku dhacday [qoomkii] Caad iyo Thamuud!”
+14. Markii ay Rusushii uga yimaadeen hortooda iyo gadaashoodaba [iyagoo leh], “Ha caabudina cidaan ahayn Allaah,” waxay yiraahdeen, “Haddii uu Rabbigayo doono, wuxuu hubaashii soo dajin lahaa malaa’ig, ee innagu waxa la idin lasoo diray waa ku gaalownay.”
+15. Xagga Caad, waxay isku kibriyeen arlada xaq darro, oo waxay yiraahdeen, “Yaa naga xoog badan?" Mawaysan arag in Allaah ee abuuray iyaga uu ka xoog badan yahay? Waxayna ahaayeen kuwo Aayadahayaga diida.
+16. Markaas baan waxaan u dirnay dabayl hugmaysa maalmo baas, si aan ugu dhadhansiino cadaabta dulliga nolosha adduunka, cadaabta Aakhiro baase kasii dulleyn badan, oo looma gargaaro.
+17. Xagga Thamuudna, waxaan tusnay oo u caddaynay Jidka Xaqa, Annagoo u dirnay Rasuulkayaga [macnaha waa wuxuu tusay jidka liibaanta], waxayse ka fadileen indha la’aan hanuunka, markaas baa waxaa qabtay Saaciqah [qaylo daran oo naxdin leh, cadaab, jug, biriq], wixii ay kasban jireen [oo danbiyo ah] awgeed.
+18. Oo waxaynu badbaadinnay kuwii [Xaqa] rumeeyay oo ka dhawrsan jirey [shirkiga, gaalnimada iyo macaasida].
+19. Oo [xus] Maalinta cadawyada Allaah loo soo kulmin doono Naarta, marka waxaa la isugu keeni doonaa halkaa [koodii u horeeyay iyo koodii u danbeeyayba].
+20. Haa, markii ay soo gaaraan [Naarta] waxaa ku marag fura maqalkooda [dhagahooda] iyo indhahooda iyo oogadooda wixii ay fali jireen.
+21. Oo waxay ku oran doonaan oogadooda, “Maxaad noogu marag furteen?" Waxay oran doonaan, “Waxaa naga hadliyay Allaah, ee ka hadliya wax walba, oo Isaga baa idin abuuray markii hore, oo Xaggiisa baa la idiin celin doonaa."
+22. Oo ma aydaan ahayn kuwo iska astura si aysan idiinku markhaati furin dhegahiinna, iyo indhahiinna iyo oogooyinkiinna, laakiinse waxaad mooddeen inuusan Allaah ogayn wax badan oo waxa aad falaysaan ah.
+23. Kaasina waa malihiinna aad ku maleyseen Rabbigiin, isaga baana idiin halaagay, waxaadna ahaateen kuwa khasaaray.
 24. Haddii ay sabrayaan [iyo haddii kaleba], waa Naarta hoygooda, oo haddii ay dalbaan in loo cudur daaro, ma aha kuwo loo cudur daarayo.
-25. Waxaana u yeellay [gaalada] saaxiibbo [adduunkan] markaasay u qurxiyeen waxa hortooda ah [acmaashii xumeyd ay ku falayeen noloshan adduunka iyo ku gaaloobiddoodh Is-Xisaabmta iyo soo Bixinta iilka layska soo saari doono, iyo wixi lamida]  iyo waxa gadaashooda ah [beenintoodii Xyg arrimaha nolosha imaneysa ee Aakhirada ee la xiriira ciqaabta ama is abaal marinta, in qabriga laysku janneyn doono ama la isku cadaabi doono, iyo wixi lamida], oo waxaa ku waajibay Qawlkii [cadaabta] sida uu ugu waajibeyba kuwo ka mid ahaa ummadahii tegay oo jin iyo insiba leh ee tagay hortood iyaga. Waxay ahaayeen kuwo khasaaray.
-26. Oo waxay yiraahdeen kuwii gaaloobay, “Ha dhegaysannina Qur’aankan oo ku fura buuq [marka la aqriyayo] waa intaasoo aad adkaataane.
-27. Waxaan hubaashii dhadhansiineynaa kuwa gaaloobay cadaab daran, oo waxaan xaqiiqdii ku abaal marin doonnaa kii ugu xumaa wixii ay fali jireen.
-28. Taasu waa jaasada cadawyada Allaah: Naarta, waxay ku leeyihiin dhexdeeda Daaita Waaridda jaazeyn ahaan waxay Aayadahayaga diidi jireen.
-29. Oo waxay oran doonaan kuwii gaaloobay, “Rabbiyow! Na tus kuwaasi na dhumiyay oo jinka iyo insiga leh, si aan u yeello cagahayaga hoostooda, si ay u noqdaan kuwa ugu hooseeya [Naarta].
-30. Xaqiiqdii, kuwa yiraahda, “Rabbigayo waa Allaah [Keliya], “oo toosnaada waxaa ku soo degi doona malaa’igta waqtiga I dhimashadooda [iyagoo leh]: Ha cabsannina, hana murugoonnina, ee ku bishaaraysta Jannadii la idiin yaboohay.
-31. “Annagaa baa ah gacalladiin nolosha Adduunka iyo Aakhiradaba, waxaadna ku leedihiin [j armada] dhexdeeda wixii ay nafahiinnu doonaan, oo waxaad ku leedihiin dhexdeeda wixii aad dalabtaan.
-32. “Martiqaad xagga [Allaah] ah, danbi Dhaaf Badanaha, Naxariista Badan.
-33. Oo yaa ka wanaagsan hadal ahaan kan ugu yeera [dadka] xagga Allaah, oo fala camallo suubban,oo yiraahda:” Waxaan anigu ka mid ahay Muslimiinta.
-34. Oo ma sinna samaanta iyo xumaanta, ku tir [xumaanta] tan iyadu wanaagsan, markaas kii ay idiin dhexeysay cadaawadi [\vuxuu noqonayaa] sidii gacal, saaxiib dhow ah.
-35. Lamase siiyo [tilmaantaa la soo xusay] waxaan ahayn kuwa sabra, oo lama siiyo waxaan ahayn mid saami wayn ku leh [wanaagyada aakhirada waa Jannada, dumdana ku leh diin iyo dabci wanaagsan].
-36. Oo haddii uu ku waswaasiyo Shaydaan oo isku dayo inuu kaa jeediyo [Muxammadow khayrka, iyo wixi lamida,] ka magan gal Allaah [oo ka cuudu-billeyso sheydaankaa]. Xaqiiqdii, [Allaah] waa Maqlid Badanaha, Cilmiga Badan.
-37. Calaamooyinkiisa waxaa ka mid ah abuurista habeenka iyo maalinta iyo qorraxda iyo dayaxa. Ee ha u sujuudina qorraxda iyo dayaxa ee u sujuuda Allaah ee abuuray haddii aad tihiin kuwo Isaga Keliya caabudaya.
-38. Haddiise ay iska waynaayaan [inay sidaa yeelaan], kuwaa ah Rabbigaa agtiisa [malaa’igta] waxay Naz ahaan oo u Tasbiixsadaan [Allaah] habeen iyo maalinba oo mamaba kama daalaan.
-39. Oo Calaamooyinkiisa waxaa ka mid ah inaad aragto dhulka oo bas [abaar] ah, markiise aan ku soo dejinno biyo [roob] la ££ ^ ^ dhaqdhaqaaqda nolol iyo soo bixin [miro gft dhalin]. Xaqiiqdii, Kan nooleeyay, hubaashii, wuxuu nooleyn doonaa maytida [Maalinta Qiyaamaha]. wax walbana waa uu Karaa.
-40. Xaqiiqdii, kuwa iiliya Aayadahayaga [iyagoo wax ka sheegaya, beddelaya macnahooda, oo beeninaya], ma aha kuwo naga qarsoon. Ma mid lagu tuurayo Naarta baa khayr badan mise mid imaanaya isagoo aamin ah Maalinta Qiyaamaha? Fala wixii aad doontaan. Xaqiiqdii, Waa uu arkaa waxa aad falaysaan [tani waa gooddin iyo handadaad daran ee loo jeediyay mushrikiinta, gaalada, dambiilayaasha, iyo wixi lamida].
-41. Xaqiiqdii, kuwa ku gaaloobay Waanada [waa Qur’aankan: aan dan u galin akhri- sashadiisa, dhageysigiisa, ku camal fal- kiisa, u gar dhigashadiisa, isku xukunkiisa, iyo wixi lamida] markii uu u yimid [way la kulmi doonaan cadaabta] oo xaqiiqdii, Qur’aanka, waa Kitaab sharaf leh [maxaa yeelay waa hadalkii Ilaahay, oo wuu ka dhowray falaad iyo wax in lagu siyaadiyo ama wax laga naaqusiyo, iyo wixi lamida].
-42. Baadil ugama imaan karo hortiisa ama gadaashiisa [waxaa] laga soo dajiyay xagga Xikmad Badanaha, Mudan ammaan idilkeed [Allaah] ee la mahdiyo.
+25. Waxaana u yeellay [gaalada] saaxiibbo [adduunkan] markaasay u qurxiyeen waxa hortooda ah [acmaashii xumeyd ay ku falayeen noloshan adduunka iyo ku gaaloobiddoodii Is-xisaabinta iyo soo bixinta iilka layska soo saari doono, iyo wixi lamida]  iyo waxa gadaashooda ah [beenintoodii arrimaha nolosha imanaysa ee Aakhirada ee la xiriira ciqaabta ama is abaal marinta, in qabriga laysku jannayn doono ama la isku cadaabi doono, iyo wixi lamida], oo waxaa ku waajibay Qawlkii [cadaabta] sida uu ugu waajibayba kuwo kamid ahaa ummadihii tagay oo jin iyo insiba leh ee tagay hortood iyaga. Waxay ahaayeen kuwo khasaaray.
+26. Oo waxay yiraahdeen kuwii gaaloobay, “Ha dhagaysannina Qur’aankan oo ku fura buuq [marka la aqriyayo] waa intaasoo aad adkaataane."
+27. Waxaan hubaashii dhadhansiinaynaa kuwa gaaloobay cadaab daran, oo waxaan xaqiiqdii ku abaal marin doonnaa kii ugu xumaa wixii ay fali jireen.
+28. Taasu waa jaazada cadawyada Allaah: Naarta, waxay ku leeyihiin dhexdeeda Daarta Waaridda jaazayn ahaan waxay Aayadahayaga diidi jireen.
+29. Oo waxay oran doonaan kuwii gaaloobay, “Rabbiyow! Na tus kuwaasi na dhumiyay oo jinka iyo insiga leh, si aan u yeello cagahayaga hoostooda, si ay u noqdaan kuwa ugu hooseeya [Naarta]."
+30. Xaqiiqdii, kuwa yiraahda, “Rabbigayo waa Allaah [Keliya]" oo toosnaada waxaa ku soo degi doona malaa’igta waqtiga dhimashadooda [iyagoo leh], "Ha cabsannina, hana murugoonnina, ee ku bishaaraysta Jannadii la idiin yaboohay."
+31. “Annagaa baa ah gacalladiin nolosha Adduunka iyo Aakhiradaba, waxaadna ku leedihiin [Jannada] dhexdeeda wixii ay nafahiinnu doonaan, oo waxaad ku leedihiin dhexdeeda wixii aad dalabtaan."
+32. “Martiqaad xagga [Allaah] ah, danbi dhaaf badanaha, Naxariista badan."
+33. Oo yaa ka wanaagsan hadal ahaan kan ugu yeera [dadka] xagga Allaah, oo fala camallo suubban, oo yiraahda, "Waxaan anigu ka mid ahay Muslimiinta"?
+34. Oo ma sinna samaanta iyo xumaanta, ku tir [xumaanta] tan iyadu wanaagsan, markaas kii ay idiin dhexeysay cadaawadi [wuxuu noqonayaa] sidii gacal saaxiib dhow ah.
+35. Lamase siiyo [tilmaantaa lasoo xusay] waxaan ahayn kuwa sabra, oo lama siiyo waxaan ahayn mid saami wayn ku leh [wanaagyada aakhirada: waa Jannada, dunidana ku leh diin iyo dabci wanaagsan].
+36. Oo haddii uu ku waswaasiyo Shaydaan oo isku dayo inuu kaa jeediyo [Muxammadow khayrka, iyo wixi lamida], ka magan gal Allaah [oo ka cuudu-billeyso sheydaankaa]. Xaqiiqdii, [Allaah] waa Maqlid Badanaha, Cilmiga Badan.
+37. Calaamooyinkiisa waxaa ka mid ah abuurista habeenka iyo maalinta iyo qorraxda iyo dayaxa. Ee ha u sujuudina qorraxda iyo dayaxa ee u sujuuda Allaha abuuray haddii aad tihiin kuwo Isaga Keliya caabudaya.
+38. Haddiise ay iska wayneeyaan [inay sidaa yeelaan], kuwaa ah Rabbigaa agtiisa [malaa’igta] waxay nazahaan oo u tasbiixsadaan [Allaah] habeen iyo maalinba oo marnaba kama daalaan.
+39. Oo Calaamooyinkiisa waxaa kamid ah inaad aragto dhulka oo bas [abaar] ah, markiise aan kusoo dajinno biyo [roob] la dhaqdhaqaaqda nolol iyo soo bixin [miro dhalin]. Xaqiiqdii, Kan nooleeyay, hubaashii wuxuu nooleyn doonaa maytida [Maalinta Qiyaamaha]. wax walbana waa uu Karaa.
+40. Xaqiiqdii, kuwa iiliya Aayadahayaga [iyagoo wax ka sheegaya, beddelaya macnahooda, oo beeninaya], ma aha kuwo naga qarsoon. Ma mid lagu tuurayo Naarta baa khayr badan mise mid imaanaya isagoo aamin ah Maalinta Qiyaamaha? Fala wixii aad doontaan. Xaqiiqdii, Waa uu arkaa waxa aad falaysaan [tani waa gooddin iyo handadaad daran ee loo jeediyay mushrikiinta, gaalada, danbiilayaasha, iyo wixi lamida].
+41. Xaqiiqdii, kuwa ku gaaloobay Waanada [waa Qur’aankan: aan dan u galin aqrisashadiisa, dhageysigiisa, ku camal falkiisa, u gar dhigashadiisa, isku xukunkiisa, iyo wixi lamida] markii uu u yimid [way la kulmi doonaan cadaabta] oo xaqiiqdii, Qur’aanka waa Kitaab sharaf leh [maxaa yeelay waa hadalkii Ilaahay, oo wuu ka dhawray falaad iyo wax in lagu ziyaadiyo ama wax laga naaqusiyo, iyo wixi lamida].
+42. Baadil ugama imaan karo hortiisa ama gadaashiisa, [waxaa] laga soo dajiyay xagga Xikmad Badanaha, Mudan ammaan idilkeed [Allaah] ee la mahdiyo.
 43. Waxba lagu oran maayo [Muxammadow] aan ka ahayn wixii lagu yiri Rusushii kaa horraysay. Xaqiiqdii, Rabbigaa waa Kan leh danbi dhaaf, oo [sidoo kale] leh Ciqaab Xanuun Badan.
-44. Oo haddii aan ka yeeli lahayn Qu’raan cajami ah [af shisheeye aan Carabi ahayn], waxay oran lahaayeen:” Maxaa Aayadihiisa loogu faah-faahin waayay [afkayaga]. Waa maxay kitaab aan Carabi ahayn [Rasuulkunu] yahay Carab? Dheh:” Wuxuu u yahay kuwa [Xaqa] rumeeyay hanuun iyo caafimaad. Kuwase aan nimeyn dhegahooda waxaa ah culeys, waana ka indha la’ yihiin Kuwaasu waa kuwa looga dhawaaqayo meel fog [marka ma dhageystaan man a fahmaan].
-45. Oo waxaan dhabtii siinnay Muusaa Kitaabka [Towraadda], waase la isku khilaafay. Oo haddii aysan jirin Kelmed ka hoimartay Rabbigaa [in dib loogu dhigo kala xukunkooda madal Maalin la yaqaan_ Maalinta Qiyaamaha], waa la kala xukumi lahaa [khilaafyada] dhexdooda ah; waxayse xaqiiqdii kaga sugan yihiin shaki badan.
-46. Kii u dhaqma si wanaagan isaga bay [dan] u tahay, kiise u dhaqma si xun [isaga bay u daran tahay] Rabbigaana ma’aha mid dulmiya addoommaha.
-47. Xaaggiisa [Allaah] baa loo celiyaa Cilmiga Saacadda [Qiyaame], ma jiraan miro ka soo baxa galkooda, iyo dheddig wax ku qaadda [uurkeeda], oo kuma dhasho [ilmo] waxaan ahayn Cilmigiisa. Oo Maalinta marka uu u yeeri doono [mushrikiinta] [Isagoo leh]; “Meeye kuwii aad ila wadaajiseen cibaadada; Waxay oran doonaan:” Waxaan ku ogeysiineynaa inuusan nagu jirin mid ka marag furi kara anintaas [inay yihin shariigyadaada].
-48. Oo waxay waayi doonaan wixii ay baiyi jireen awal hore, waxayna yaqiinsan doonaan inaysan 1 ahayn meel ay ka magan galaan [Cadaabka Allaah].
-49. Aadanuhu [kan gaalka ah] kama daalo weydiisiga [wax wanaagsan Allaah], haddiise uu shar taabto, waa uu quusasho badan yah ay.
-50. Oo haddii aan dhadhansiinno Naxariis Xaggayaga ah, kaddib xoogaa dhibaato ah [faqri ama jirro, iyo wixi lamida], oo taabtay, wuxuu yiraahdaa: Aniga baa waxakan leh [oo mudan], oo u maleyn maayo inay Saacaddu [Qiyaame] dhici doonto, haddiina la ii celiyo xagga Rabbigay, waxaan ku leeyahay agtiisa wanaag [maal, carruur, mansab iyo wixi lamida]. Waxaan hubaashii Annagu uga warrami doonnaa kuwa gaaloobay wixii ay faleen oo waxaan dhadhansiin doonnaa Cadaab Qallafsan.
-51. Oo marka aan u nicmeyno Aadanaha, waa jeesadaa oo ka fogaadaa khayrka, maikiise ay taabato dhibaato, waa baiyo badan yahay.
+44. Oo haddii aan ka yeeli lahayn Qur'aan cajami ah [af shisheeye aan Carabi ahayn], waxay oran lahaayeen, "Maxaa Aayadihiisa loogu faahfaahin waayay [afkayaga]? Waa maxay kitaab aan Carabi ahayn [Rasuulkuna] yahay Carab?"" Dheh, "Wuxuu u yahay kuwa [Xaqa] rumeeyay hanuun iyo caafimaad. Kuwase aan rumayn dhagahooda waxaa ah culays, waana ka indha la’ yihiin, Kuwaasu waa kuwa looga dhawaaqayo meel fog [marka ma dhagaystaan mana fahmaan]."
+45. Oo waxaan dhabtii siinnay Muusaa Kitaabka [Towraadda], waase la isku khilaafay. Oo haddii aysan jirin Kelmed ka hormartay Rabbigaa [in dib loogu dhigo kala xukunkooda madal Maalin la yaqaan, Maalinta Qiyaamaha], waa la kala xukumi lahaa [khilaafyada] dhexdooda ah; waxayse xaqiiqdii kaga sugan yihiin shaki badan.
+46. Kii u dhaqma si wanaagan isaga bay [dan] u tahay, kiise u dhaqma si xun [isaga bay u daran tahay] Rabbigaana ma’aha mid dulmiya addoomaha.
+47. Xaggiisa [Allaah] baa loo celiyaa Cilmiga Saacadda [Qiyaame], ma jiraan miro kasoo baxa galkooda, iyo dheddig wax ku qaadda [uurkeeda], oo kuma dhasho [ilmo] waxaan ahayn Cilmigiisa, oo Maalinta marka uu u yeeri doono [mushrikiinta Isagoo leh], “Meeye kuwii aad ila wadaajiseen cibaadada?" Waxay oran doonaan, "Waxaan ku ogeysiineynaa inuusan nagu jirin mid ka marag furi kara arrintaas [inay yihin shariigyadaada]."
+48. Oo waxay waayi doonaan wixii ay baryi jireen awal hore, waxayna yaqiinsan doonaan inaysan lahayn meel ay ka magan galaan [Cadaabka Allaah].
+49. Aadamuhu [kan gaalka ah] kama daalo weydiisiga [wax wanaagsan Allaah], haddiise uu shar taabto, waa uu quusasho badan yahay.
+50. Oo haddii aan dhadhansiinno naxariis xaggayaga ah, kaddib xoogaa dhibaato ah [faqri ama jirro, iyo wixi lamida], oo taabtay, wuxuu yiraahdaa: Aniga baa waxakan leh [oo mudan], oo u maleyn maayo inay Saacaddu [Qiyaame] dhici doonto, haddiina la ii celiyo xagga Rabbigay, waxaan ku leeyahay agtiisa wanaag [maal, carruur, mansab iyo wixi lamida]. Waxaan hubaashii Annagu uga warrami doonnaa kuwa gaaloobay wixii ay faleen oo waxaan dhadhansiin doonnaa cadaab qallafsan.
+51. Oo marka aan u nicmeyno Aadanaha, waa jeesadaa oo ka fogaadaa khayrka, markiise ay taabato dhibaato, waa baryo badan yahay.
 52. Dheh, “Bal ka warrama haddii uu [Qur’aankani] ka yimid xagga Allaah, oo markaas aad ku gaalowdaan, yaa ka dhunsanaan badan qof gaalnimo iyo collaytan ku jira ee ka fog [Jidka Allaah ee toosan iyo adeeciddiisa].
-53. Waxaan ka tusin doonnaa Calaa- mooyinkayaga koonka iyo nafahoodaba intay uga caddaato inuu [Qur’aankani] yahay Xaq. Ma wuusan ku fillayn Rabbigaa inuu wax walba u jeedo oo ka yahay markhaati.
-54. Xaqiiqdii! Waxay [gaaladu] kaga sugan yihiin shaki la kulanka Rabbigood [waa soo bixinta dhimashadooda kaddib, iyo u noqoshadooda xagga Rabbigood]. Xaqiiqdii, wax kasta waa uu Koobay.
+53. Waxaan ka tusin doonnaa Calaamooyinkayaga koonka iyo nafahoodaba intay uga caddaato inuu [Qur’aankani] yahay Xaq. Ma wuusan ku fillayn Rabbigaa inuu wax walba u jeedo oo ka yahay markhaati?
+54. Xaqiiqdii! Waxay [gaaladu] kaga sugan yihiin shaki la-kulanka Rabbigood [waa soo bixinta dhimashadooda kaddib, iyo u noqoshadooda xagga Rabbigood]. Xaqiiqdii, wax kasta waa uu Koobay.
 
 ## Suuradda 42aad: Ash-Shuuraa (Wada-Tashiga)
 
@@ -4661,7 +4543,7 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 7. Oo sidaas baan kuugu waxyoonnay [Muxammadow] Qur’aan [Carabi ah] si aad ugu digto hooyada magaalooyinka [Makka] iyo waxa hareereheeda ah, oo uga digto Maalinta Kulanka ee uusan ku jirin shaki, marka ay qolo ahaan doonaan Jannada gudaheeda, qolana Dabka huraya.
 8. Oo haddii Allaah dooni lahaa, wuxuu ka yeeli lahaa ummad kaliya, laakiinse wuxuu galiyaa ciddii uu doono naxariistiisa [Jannada], daalimiintuna [mushrikiinta, gaalada, iyo danbiilayaasha, iyo wixi lamida] ma leh wax ah wali [gacal dhawra] iyo gargaare midna.
 9. Mise waxay yeesheen Allaah sokadi awliyaa [ilaaliyaal, gargaarayaal, taliyaal, iyo wixi lamida]? Waase Allaah Waliga [ilaaliyaha] waana Kan nooleeya maytida, oo Isagaa wax walba kara.
-10. Oo wixii aad isku khilaaftaan oo wuxuun ah go’aankiisa waxaa leh Allaah [oo waa in loo bandhigaa Qur’aanka iyo sunnada], kaas baa ah Allaah Rabbigay, Isaga baan talo saartaa, oo Xaggiisa ula noqdaa wixii arrimahayga ah oo idil.
+10. Oo wixii aad isku khilaaftaan oo wuxuun ah go’aankiisa waxaa leh Allaah [oo waa in loo bandhigaa Qur’aanka iyo Sunnada], kaas baa ah Allaah Rabbigay, Isaga baan talo saartaa, oo Xaggiisa ula noqdaa wixii arrimahayga ah oo idil.
 11. Waa askumaha cirarka iyo dhulka, wuxuu idinka yeelay labo nooc [lab iyo dhaddig] nafahiinna, oo uyeelay nicmoolayda [sidoo kale] noocyo. Sidaa buu idiin ku abuuraa [riximyada]. Ma jiro wax la mid ah, waana maqlid badanaha, arkidda badan.
 12. Isaga baa iska leh furayaasha cirarka iyo dhulka, wuxuu u waasiciyaa rizqiga kii uu doono, oo ku ciriiriyaa [kii uu doono]. Xaqiiqdii [Allaah] wax walba waa og yahay.
 13. Wuxuu idiin jideeyay xagga diinta isla wixii [Islaamka] uu ku faral yeelay Nuux, iyo waxa aan kuu waxyoonnay [Muxammadow], iyo wixii aan ku faral yeelnay Ibraahiim, Muusaa iyo Ciisaa: inaad oogtaan diinta, oo ku kala tagin [noqon kooxo iyo dariiqooyin] diinta. Wax culus oo ayan qaadan karin mushrikiinta waa waxa aad [Muxammadow] ugu yeerto. Allaah wuxuu u doortaa xaggiisa kii uu doono, oo wuxuu u hanuuniyaa xaggiisa kii ugu soo noqda [tawbad iyo daacad].
@@ -4680,7 +4562,7 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 26. Oo Wuxuu ajiibaa [baryada] kuwa [xaqa] rumeeyay oo fala camallo wanaagsan oo suubban, oo uziyaadiyaa fadligiisa, gaaladana waxaa u sugnaaday cadaab daran.
 27. Oo haddii Allaah ufidiyo rizqi addoomihiisa, waxay hubaashii ku kibri lahaayeen arlada, laakiinse Wuxuu usoo dajiyaa qaddar waafaqsan sida uu rabo. Xaqiiqdii [Allaah] addoomihiisa waa ka warhayaa oo waa uu arkaa.
 28. Oo waa Isaga Kan soo dajiya roobka kaddib markii ay quusteen oo ku faafiya uunka raxmaddiisa, oo waa Isaga Waliga [gargaaraha, ilaaliyaha, gacalka, iyo wixi lamida] mudan ammaan idilkeed ee la mahdiyo.
-29. Oo waxaa kamid ah aayadkiisa [calaamooyinkiisa] abuurista cirarka iyo arlada iyo waxa uu ku firdhiyay dhexdooda oo [naflay] dhul socod ah, oo [Allaah] inuu soo kulmiyo [ dhimashadooda kaddib] oo isu keeno markii uu doonaa waa awoodaa.
+29. Oo waxaa kamid ah aayaadkiisa [calaamooyinkiisa] abuurista cirarka iyo arlada iyo waxa uu ku firdhiyay dhexdooda oo [naflay] dhul socod ah, oo [Allaah] inuu soo kulmiyo [ dhimashadooda kaddib] oo isu keeno markii uu doonaa waa awoodaa.
 30. Oo wixii idin ku dhaca oo musiibo ah waa waxay galabsadeen gacmihiinnu, oo Wuxuu idin ka cafiyaa wax badan.
 31. Oo ugama fakan kartaan [ciqaabka] Allaah dhulka, oo ma lihidin Allaah ka sokow wax wali ah [ilaaliye, wakiil, gacal] iyo gargaare midna.
 32. Oo waxaa kamid ah calaamooyinkiisa doomaha socda badda ee la moodo buuro.
@@ -4690,7 +4572,7 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 36. Ee wixii la idin siiyo oo wuxuun ahi waa raaxada tagaysa ee nolosha adduunkan, waxase jira xagga Allaah [Jannada] baa u khayr badan oo u daa’imsan kuwa [xaqa] rumeeyay oo Rabbigood tala saarta.
 37. Ee ah kuwa ka fogaada danbiyada waawayn iyo fool xumooyinka, oo marka ay caroodaan wax cafiya.
 38. Oo ah kuwa ajiiba yeeritaanka Rabbigood [Tawxiidka] oo u ooga salaadda si wanaagsan, arrinkooduna tashi yahay dhexdooda, oo wax ka bixiya wixii aan ku irzaaqnay.
-39. Oo ah kuwaas marka aabi [gaf dulmi] lagu falo, aar guta.
+39. Oo ah kuwaas marka aabi [gaf, dulmi] lagu falo, aar guta.
 40. Jaazada hal xumaan ahi waa xumaan lamid ah, kiise iska cafiya oo ka taliya samo, ajarkiisu wuxuu saaran yahay Allaah, xaqiiqdii Allaah ma uu jecla daalimiinta.
 41. Oo kii aar guta kaddib markii loo gaystay dulmi, kuwaasi laguma leh jid.
 42. Ee waxaa sideedaba jidka lagu leeyahay [oo eed leh] kuwa dulmiya dadka, oo ku kibra dhulka xaq darro, kuwaasu waxay leeyihiin cadaab xanuun badan.
@@ -4701,7 +4583,7 @@ Ku billaabid magaca Allaah, naxariistaha, naxariista badan.
 47. Ajiiba yeeridda Rabbigiin [oo aqbala Tawxiidka Islaamka, dadka iyo jinkow] inta aysan ka imaan xagga Allaah Maalin aan ahaan karin mid la celiyo, ma lahaan doontaan wax irkad ah Maalintaas, oo ma idiin ahaan doonto idinka wax ah inkirid [danbiyadiinna maadaama ay dhammaan ku qoran yihiin diiwaanka camalladiinna].
 48. Haddiise ay ka jeesadaan [Muxammadow Tawxiidka Islaamka aad u keentay] Annagu kuuguma aannu soo dirin [Muxammadow] xafiid [ilaaliye] ahaan korkooda, xilkaagu waa uun inaad gaarsiiso [fartiinta Ilaahay], oo marka aan dhadhansiinno Aadamaha naxariis Xaggayaga, waa uu ku farxaa, markiise ay ku dhacdo xoogaa dhibaato ah ay ugu wacan tahay camalladii ay gacmahoodu gaysteen, xaqiiqdii Aadamuhu [kan gaalka ahi] waa jazzaar abaal dhac badan.
 49. Allaah baa iska leh xukumka cirarka iyo dhulka, Wuxuu abuuraa wixii uu doono, Wuxuu ugu deeqaa dhaddigood [gabdho] kii uu doono, oo ugu deeqaa labood [wiilal] kii uu doono.
-50. Ama Wuxuu ugu deeqaa labood iyo dhaddigood [gabdho iyo wiilalba], Wuxuuna ka dhigaa kii uu doono ma dhalays. Xaqiiqdii [Allaah] waa cilmi badane, awooda badan.
+50. Ama Wuxuu ugu deeqaa labood iyo dhaddigood [gabdho iyo wiilalba], Wuxuuna ka dhigaa kii uu doono madhalays. Xaqiiqdii [Allaah] waa cilmi badane, awooda badan.
 51. Ma aha Allaah inuu qofna la hadlo waxyi maahee, ama xijaab gadaashi ama inuu usoo diro rasuul ugu waxyooda wixii uu doono Idankiisa, xaqiiqdii [Allaah] waa Sarreeye, xikmad badan.
 52. Oo sidaas baan waxaan kuugu waxyoonnay [Muxammadow] Ruux [waxyi iyo naxariis] Amarkayaga ah oo ma aadan ogayn wuxuu yahay Kitaab iyo Iimaan midna. Laakiinse waxaan ka dhignay [Qur’aankan] Nuur aan ku hanuuninno ciddii aan doono oo kamid ah addoomahayaga, oo waxaad adigu [Muxammadow] dhabtii ku hanuunisaa [dadka] jid toosan.
 53. Jidka Ilaahay, ee ah Kan iska leh waxa ku sugan cirarka iyo waxa ku sugan dhulka. Xaqiiqdii, arrimaha oo idil waxay ugu dambayn u aadaan Allaah [go’aan ka bixin oo Isaga baa ka taliya arrimaha].
